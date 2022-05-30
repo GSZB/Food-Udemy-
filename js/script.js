@@ -26,4 +26,5 @@ window.addEventListener('DOMContentLoaded', function() {
         wrapper: '.offer__slider-wrapper',
         field: '.offer__slider-inner'
     });
+    console.log(12121);
 });
